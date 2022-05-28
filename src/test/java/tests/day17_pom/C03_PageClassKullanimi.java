@@ -1,4 +1,4 @@
-package tests.day16_notations.day17_pom;
+package tests.day17_pom;
 
 import com.github.javafaker.Faker;
 import org.testng.Assert;

@@ -1,4 +1,4 @@
-package tests.day16_notations.day17_pom;
+package tests.day17_pom;
 
 import org.openqa.selenium.Keys;
 import org.testng.Assert;
