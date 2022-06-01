@@ -1,0 +1,19 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="belirli gruplar">
+   <!-- Bu durumda çalışacak tüm test methodlarını veya classları
+    tek tek xml dosyasına tanımlamak yerine
+    framework'ümüzde istediğimiz test methodlarını
+    istedigimiz gruplara dahil edebiliriz
+
+    bunu yapilmek icin once test medhodlarimizi istedigimiz grublara dahil eder
+    sonra xml dosyasinda
+    1-hangi grublar caliscak veya calismayacak
+    2-bu grublar hangi package altinda aranacak
+
+    -->
+<test name="belirli grublar">
+
+
+</test>
+
+</suite>
