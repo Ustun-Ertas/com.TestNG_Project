@@ -1,4 +1,4 @@
-package tests.day16_notations;
+package tests.day22_crossBrowser;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
@@ -6,10 +6,11 @@ import org.openqa.selenium.WebElement;
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
 import utilities.TestBase;
+import utilities.TestBaseCross;
 
-public class C06_SoftAssert extends TestBase {
+public class C02_SoftAssertCross extends TestBaseCross {
 
-    @Test(groups = "grup2")
+    @Test
     public void test01() {
         /*
           Softassertion baslangic ve bitis satirlari arasindaki
