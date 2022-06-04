@@ -6,7 +6,7 @@
             <class name="tests.day22_crossBrowser.C01_AssertionsCross"></class>
         </classes>
     </test>
-    <test name="Cross browser firefox">
+    <test name="Cross browser edge">
         <parameter name="browser" value="edge"></parameter>
         <classes>
             <class name="tests.day22_crossBrowser.C02_SoftAssertCross"></class>
