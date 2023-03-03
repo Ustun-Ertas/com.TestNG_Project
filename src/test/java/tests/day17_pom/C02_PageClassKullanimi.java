@@ -19,6 +19,8 @@ public class C02_PageClassKullanimi {
         String actualSonuc=amazonPage.aramaSonucElementi.getText();
         String arananKelime="nutella";
         Assert.assertTrue(actualSonuc.contains(arananKelime));
+
+        Driver.closeDriver();
     }
 }
 
