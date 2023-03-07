@@ -12,6 +12,7 @@ public class C03_Priority extends TestBase {
            priority kucukten buyuge gore calisir
            eger bir test method'una priority degeri atanmamissa
            default olarak priority=0 kabul edilir.
+
          */
     @Test(priority = -5)
     public void amazonTesti() {
